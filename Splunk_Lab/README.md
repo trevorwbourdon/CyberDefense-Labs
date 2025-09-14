@@ -1,32 +1,33 @@
-# Snort: Live Attacks
+# Splunk: Incident Handling
 
 ## Category  
-📂 Network Security → Intrusion Detection Systems (IDS)  
+📂 Defensive Security → SIEM / Log Analysis  
 
 ## Objective  
-Create and deploy Snort rules to detect malicious traffic in real time.  
+Use Splunk to investigate suspicious events, perform searches, and handle incidents.  
 
 ## Tools/Skills Practiced  
-- Snort IDS configuration  
-- Writing and testing custom Snort rules  
-- Detecting attacks in live network traffic  
-- Reviewing IDS alert logs  
+- Splunk Search Processing Language (SPL)  
+- Querying logs for anomalies  
+- Building dashboards and alerts  
+- Incident investigation workflow  
 
 ## Process (Steps Taken)  
-1. Configured Snort environment.  
-2. Created detection rules for suspicious ports and payloads.  
-3. Simulated attacks (Metasploit exploitation, brute-force attempts).  
-4. Reviewed Snort logs for alerts.  
+1. Connected to Splunk and ingested sample log data.  
+2. Ran SPL queries to search for suspicious activity (`index=main failed logins`).  
+3. Investigated user accounts tied to brute-force attempts.  
+4. Generated alerts and simulated incident response steps.  
 
 ## Key Findings  
-- Snort successfully flagged simulated Metasploit traffic.  
-- Detected brute-force activity in real-time traffic.  
-- Learned importance of tuning rules to reduce false positives.  
+- Pivoted from failed logins to root-cause investigation.  
+- Identified malicious login attempts tied to specific accounts.  
+- Built detection queries and alert rules for monitoring.  
 
 ## Screenshots (recommended)  
-*(Insert screenshots of Snort rules and alert logs here)*  
+*(Insert screenshots of SPL queries, search results, and dashboards here)*  
 
 ## Outcome / What I Learned  
-- Developed practical IDS rule-writing skills.  
-- Learned how to detect and respond to simulated intrusions.  
-- Gained appreciation for IDS role in layered defense.  
+- Practiced real-world SIEM investigation workflows.  
+- Strengthened log analysis and querying skills.  
+- Learned how Splunk supports real-time monitoring and incident response.  
+layered defense.  
