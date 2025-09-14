@@ -1,30 +1,36 @@
-# Wireshark Lab
+# Wireshark: Traffic Analysis
 
-## Objective
-Analyze packet captures to detect malicious activity and understand attack patterns.
+## Category  
+📂 Network Security → Packet Analysis  
 
----
+## Objective  
+Learn how to capture, filter, and analyze network traffic to identify suspicious or malicious activity.  
 
-## Findings
+## Tools/Skills Practiced  
+- Wireshark filters (http.request, tcp.flags.syn, etc.)  
+- Packet inspection and reconstruction  
+- Identifying anomalies in network flows  
+- Recognizing common IoCs in PCAPs  
 
-### 1. Suspicious Network Traffic
-- **Observation:** Malicious IP connection detected.  
-- **Tool:** Wireshark (pcap analysis)  
-- **Details:** Identified communication with suspicious external IP addresses, consistent with command-and-control (C2) traffic.  
+## Process (Steps Taken)  
+1. Opened provided PCAP files in Wireshark.  
+2. Applied display filters to isolate HTTP, DNS, and TCP traffic.  
+3. Identified suspicious patterns (e.g., repeated failed logins, unusual beaconing).  
+4. Reconstructed sessions to confirm malicious behavior.  
 
----
+## Key Findings  
+- Isolated brute-force login attempts within packet captures.  
+- Detected beaconing activity consistent with Command & Control (C2).  
+- Learned to filter network traffic to focus on attack patterns.  
 
-### 2. Exploit Detection
-- **Observation:** Packet payloads suggested an **exploit attempt**.  
-- **Tool:** Wireshark (deep packet inspection)  
-- **Details:** Detected abnormal payload size and suspicious shellcode-like data.
+## Screenshots (recommended)  
+*(Insert screenshots showing suspicious packets, brute-force logins, or beaconing patterns here)*  
 
----
+## Outcome / What I Learned  
+- Gained hands-on practice with packet analysis fundamentals.  
+- Learned how to detect anomalies that indicate attacks.  
+- Understood how Wireshark fits into SOC investigations for real-time traffic analysis.  
 
-### 3. Indicators of Compromise (IOCs)
-- **IP Addresses:** [example IPs you found]  
-- **Ports:** 4444 / 5555 (commonly used for Metasploit reverse shells)  
-- **Protocol:** TCP  
 
 ---
 
