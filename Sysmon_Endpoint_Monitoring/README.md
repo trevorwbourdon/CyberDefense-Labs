@@ -1,19 +1,19 @@
 # Sysmon: Windows Endpoint Monitoring
 
-## 📂 Category  
+##  Category  
 Endpoint Security → Windows Event Logging  
 
-## 🎯 Objective  
+##  Objective  
 Gain experience with Sysmon to detect malicious activity on Windows hosts.
 
-## 🛠️ Event IDs Covered  
+##  Event IDs Covered  
 - **3**: Network Connections (Metasploit)  
 - **10**: Process Access (Mimikatz LSASS access)  
 - **11/13**: File Creation (Persistence – Startup folder)  
 
 ---
 
-## 📝 Process (Steps Taken)  
+##  Process (Steps Taken)  
 1. Installed Sysmon and reviewed the configuration file.  
 2. Generated sample events (process launches, network connections).  
 3. Investigated logs in Event Viewer for anomalies.  
@@ -24,7 +24,7 @@ Gain experience with Sysmon to detect malicious activity on Windows hosts.
 
 ---
 
-## 🔑 Key Findings  
+##  Key Findings  
 - Detected **Metasploit network connection** on suspicious port (4444/5555).  
 - Identified **Mimikatz accessing LSASS** (`C:\Windows\system32\lsass.exe`).  
 - Observed **persistence technique** by adding a file to the Startup folder.  
@@ -32,14 +32,14 @@ Gain experience with Sysmon to detect malicious activity on Windows hosts.
 
 ---
 
-## 📸 Screenshots (examples)  
+##  Screenshots (examples)  
 - `metasploit_port.png` – Event ID 3 (network connection on port 4444/5555)  
 - `mimikatz_lsass.png` – Event ID 10 (Mimikatz accessing LSASS)  
 - `startup_persistence.png` – Event ID 11/13 (file creation in Startup folder)  
 
 ---
 
-## 🔗 Event Correlation  
+##  Event Correlation  
 By reviewing these events together, you can see the sequence of an attack:  
 1. **Initial Access / Network Connection** (Metasploit)  
 2. **Credential Access** (Mimikatz targeting LSASS)  
@@ -49,7 +49,7 @@ This demonstrates how Sysmon data can help trace malicious activity across multi
 
 ---
 
-## 📚 Outcome / What I Learned  
+##  Outcome / What I Learned  
 - Gained practical experience monitoring Windows endpoints with Sysmon.  
 - Learned how to identify malicious network connections, credential access, and persistence techniques.  
 - Improved ability to **correlate multiple events** for threat hunting and incident response.  
