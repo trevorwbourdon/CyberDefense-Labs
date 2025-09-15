@@ -55,16 +55,3 @@ This demonstrates how Sysmon data can help trace malicious activity across multi
 ![Sysmon](Screenshots/Sysmon3.png)
 ![Sysmon](Screenshots/Sysmon4.png)
 ![Sysmon](Screenshots/Sysmon6.png)
- 
-
----
-
-##  Event Correlation  
-By reviewing these events together, you can see the sequence of an attack:  
-1. **Initial Access / Network Connection** (Metasploit)  
-2. **Credential Access** (Mimikatz targeting LSASS)  
-3. **Persistence** (file added to Startup folder)  
-
-This demonstrates how Sysmon data can help trace malicious activity across multiple stages of a compromise.  
-
-
