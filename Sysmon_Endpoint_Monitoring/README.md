@@ -32,7 +32,7 @@ Gain experience with Sysmon to detect malicious activity on Windows hosts.
 
 ---
 
-##  Screenshots (examples)  
+##  Screenshots  
 ![Sysmon](Screenshots/Symson1.png)
 ![Sysmon](Screenshots/Sysmon2.png)
 ![Sysmon](Screenshots/Sysmon3.png)
