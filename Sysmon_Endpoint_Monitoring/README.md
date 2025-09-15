@@ -33,11 +33,11 @@ Gain experience with Sysmon to detect malicious activity on Windows hosts.
 ---
 
 ##  Screenshots (examples)  
-![Sysmon](Sysmon_Endpoint_Monitoring/Screenshots/Symson1.png)
-![Sysmon](Sysmon_Endpoint_Monitoring/Screenshots/Sysmon2.png)
-![Sysmon](Sysmon_Endpoint_Monitoring/Screenshots/Sysmon3.png)
-![Sysmon](Sysmon_Endpoint_Monitoring/Screenshots/Sysmon4.png)
-![Sysmon](Sysmon_Endpoint_Monitoring/Screenshots/Sysmon6.png)
+![Sysmon](Screenshots/Symson1.png)
+![Sysmon](Screenshots/Sysmon2.png)
+![Sysmon](Screenshots/Sysmon3.png)
+![Sysmon](Screenshots/Sysmon4.png)
+![Sysmon](Screenshots/Sysmon6.png)
  
 
 ---
