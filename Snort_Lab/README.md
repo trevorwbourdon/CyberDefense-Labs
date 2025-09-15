@@ -24,7 +24,10 @@ Create and deploy Snort rules to detect malicious traffic in real time.
 - Learned importance of tuning rules to reduce false positives.  
 
 ## Screenshots (recommended)  
-*(Insert screenshots of Snort rules and alert logs here)*  
+![x](Screenshots/Snort1.png)
+![x](Screenshots/Snort2.png)
+
+
 
 ## Outcome / What I Learned  
 - Developed practical IDS rule-writing skills.  
