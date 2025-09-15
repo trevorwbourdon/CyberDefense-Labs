@@ -24,7 +24,9 @@ Use Splunk to investigate suspicious events, perform searches, and handle incide
 - Built detection queries and alert rules for monitoring.  
 
 ## Screenshots (recommended)  
-*(Insert screenshots of SPL queries, search results, and dashboards here)*  
+![MITRE ATT&CK Navigator](Screenshot 2025-09-11 102215.png)
+![APT 29 Adversery Emulation](Screenshot 2025-09-11 102433.png)
+
 
 ## Outcome / What I Learned  
 - Practiced real-world SIEM investigation workflows.  
