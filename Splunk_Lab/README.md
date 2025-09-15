@@ -24,8 +24,8 @@ Use Splunk to investigate suspicious events, perform searches, and handle incide
 - Built detection queries and alert rules for monitoring.  
 
 ## Screenshots 
-![Email Content](Splunk_Lab/Screenshots/Splunk1.png)
-![Email Content](Splunk_Lab/Screenshots/Splunk2.png)
+![Splunk](Screenshots/Splunk1.png)
+![Splunk](Screenshots/Splunk2.png)
 
 
 ## Outcome / What I Learned  
