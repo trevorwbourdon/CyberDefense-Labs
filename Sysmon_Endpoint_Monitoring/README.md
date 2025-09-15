@@ -33,9 +33,12 @@ Gain experience with Sysmon to detect malicious activity on Windows hosts.
 ---
 
 ##  Screenshots (examples)  
-- `metasploit_port.png` – Event ID 3 (network connection on port 4444/5555)  
-- `mimikatz_lsass.png` – Event ID 10 (Mimikatz accessing LSASS)  
-- `startup_persistence.png` – Event ID 11/13 (file creation in Startup folder)  
+![Sysmon](Sysmon_Endpoint_Monitoring/Screenshots/Symson1.png)
+![Sysmon](Sysmon_Endpoint_Monitoring/Screenshots/Sysmon2.png)
+![Sysmon](Sysmon_Endpoint_Monitoring/Screenshots/Sysmon3.png)
+![Sysmon](Sysmon_Endpoint_Monitoring/Screenshots/Sysmon4.png)
+![Sysmon](Sysmon_Endpoint_Monitoring/Screenshots/Sysmon6.png)
+ 
 
 ---
 
