@@ -21,21 +21,14 @@ Learn how to capture, filter, and analyze network traffic to identify suspicious
 ## Key Findings  
 - Isolated brute-force login attempts within packet captures.  
 - Detected beaconing activity consistent with Command & Control (C2).  
-- Learned to filter network traffic to focus on attack patterns.  
-
-## Screenshots
-![Wireshark](Screenshots/Wireshark1.png)
-![Wireshark](Screenshots/Wireshark2.png)
-
+- Learned to filter network traffic to focus on attack patterns.
 
 ## Outcome / What I Learned  
 - Gained hands-on practice with packet analysis fundamentals.  
 - Learned how to detect anomalies that indicate attacks.  
-- Understood how Wireshark fits into SOC investigations for real-time traffic analysis.  
+- Understood how Wireshark fits into SOC investigations for real-time traffic analysis. 
 
-
----
-
-## Conclusion
-Wireshark analysis revealed network-based malicious activity, including suspicious port usage (4444/5555) tied to Metasploit exploitation.  
-This lab demonstrated how packet captures can be leveraged to detect early signs of compromise.
+## Screenshots
+![Wireshark](Screenshots/Wireshark1.png)
+![Wireshark](Screenshots/Wireshark2.png)
+ 
