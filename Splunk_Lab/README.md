@@ -23,8 +23,9 @@ Use Splunk to investigate suspicious events, perform searches, and handle incide
 - Identified malicious login attempts tied to specific accounts.  
 - Built detection queries and alert rules for monitoring.  
 
-## Screenshots (recommended)  
-
+## Screenshots 
+![Email Content](Splunk_Lab/Screenshots/Splunk1.png)
+![Email Content](Splunk_Lab/Screenshots/Splunk2.png)
 
 
 ## Outcome / What I Learned  
