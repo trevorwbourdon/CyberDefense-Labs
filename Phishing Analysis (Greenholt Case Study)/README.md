@@ -27,8 +27,16 @@ Analyze a phishing campaign to identify indicators, understand attacker methods,
 - File hash (SHA256): `2e91c533615a9bb8929ac4bb76707b2444597ce063d84a4b33525e25074fff3f`.  
 - File size: `400.26 KB`.  
 
-## Screenshots (recommended)  
-*(Insert screenshots of Thunderbird email, header source, and VirusTotal analysis here)*  
+## Screenshots
+
+### Email Opened in Thunderbird
+![Email Content](Screenshot 2025-09-12 135545)
+This shows the content of the suspicious email we analyzed.
+
+### Attachment Details
+![Attachment Info](Screenshots/Screenshot 2025-09-12 135809)
+This shows the filename, size, and hash of the email attachment.
+
 
 ## Outcome / What I Learned  
 - Improved ability to analyze phishing attempts and extract IoCs.  
