@@ -26,8 +26,9 @@ Gain hands-on experience navigating the MITRE ATT&CK framework to identify adver
 - Mitigation strategies emphasize security awareness training, multi-factor authentication, and monitoring suspicious email traffic.  
 - ATT&CK supports blue teams, red/purple teams, and SOC managers to align defenses with real-world adversary behaviors.  
 
-## Screenshots (recommended)  
-*(Insert screenshots of ATT&CK Navigator, APT29 technique map, and spear-phishing technique page here)*  
+## Screenshots   
+![MITRE ATT&CK Navigator](Screenshot 2025-09-11 102215.png)
+![APT 29 Adversery Emulation](Screenshot 2025-09-11 102433.png)
 
 ## Outcome / What I Learned  
 - Developed familiarity with the MITRE ATT&CK framework for mapping adversary TTPs.  
