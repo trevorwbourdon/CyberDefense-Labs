@@ -24,8 +24,8 @@ Create and deploy Snort rules to detect malicious traffic in real time.
 - Learned importance of tuning rules to reduce false positives.  
 
 ## Screenshots (recommended)  
-![Snort interface](Screenshots/Snort1.png)
-![Port Scan](Screenshots/Snort2.png)
+![Snort interface](/Snort_Lab/screenshots/Snort1.png)
+![Port Scan](screenshots/Snort2.png)
 
 
 
