@@ -23,8 +23,10 @@ Learn how to capture, filter, and analyze network traffic to identify suspicious
 - Detected beaconing activity consistent with Command & Control (C2).  
 - Learned to filter network traffic to focus on attack patterns.  
 
-## Screenshots (recommended)  
-*(Insert screenshots showing suspicious packets, brute-force logins, or beaconing patterns here)*  
+## Screenshots
+![Wireshark](Screenshots/Wireshark1.png)
+![Wireshark](Screenshots/Wireshark2.png)
+
 
 ## Outcome / What I Learned  
 - Gained hands-on practice with packet analysis fundamentals.  
