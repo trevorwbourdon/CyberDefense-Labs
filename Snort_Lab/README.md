@@ -21,15 +21,13 @@ Create and deploy Snort rules to detect malicious traffic in real time.
 ## Key Findings  
 - Snort successfully flagged simulated Metasploit traffic.  
 - Detected brute-force activity in real-time traffic.  
-- Learned importance of tuning rules to reduce false positives.  
-
-## Screenshots (recommended)  
-![Snort interface](/Snort_Lab/screenshots/Snort1.png)
-![Port Scan](screenshots/Snort2.png)
-
-
+- Learned importance of tuning rules to reduce false positives.
 
 ## Outcome / What I Learned  
 - Developed practical IDS rule-writing skills.  
 - Learned how to detect and respond to simulated intrusions.  
 - Gained appreciation for IDS role in layered defense.  
+
+## Screenshots (recommended)  
+![Snort interface](/Snort_Lab/screenshots/Snort1.png)
+![Port Scan](screenshots/Snort2.png)
