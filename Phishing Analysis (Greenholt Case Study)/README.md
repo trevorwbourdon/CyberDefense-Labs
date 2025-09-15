@@ -30,12 +30,15 @@ Analyze a phishing campaign to identify indicators, understand attacker methods,
 ## Screenshots
 
 ### Email Opened in Thunderbird
-![Email Content](Screenshot 2025-09-12 135545)
+![Email Content](Screenshots/Screenshots/Screenshot 2025-09-12 135545.png)
 This shows the content of the suspicious email we analyzed.
 
-### Attachment Details
-![Attachment Info](screenshots/screenshot_2025-09-12_135809.png)
-This shows the filename, size, and hash of the email attachment.
+### Mx Toolbox
+![Phishing Analysis] (Screenshots/Screenshot 2025-09-12 135809.png)
+
+### 
+![] (/Screenshots/Screenshot 2025-09-12 141117.png)
+
 
 
 ## Outcome / What I Learned  
