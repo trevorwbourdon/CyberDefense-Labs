@@ -27,8 +27,8 @@ Gain hands-on experience navigating the MITRE ATT&CK framework to identify adver
 - ATT&CK supports blue teams, red/purple teams, and SOC managers to align defenses with real-world adversary behaviors.  
 
 ## Screenshots   
-![MITRE ATT&CK Navigator](MITRE%20ATT%26CK%20Framework%20Exploration/Screenshots/Screenshot-2025-09-11-102215.png)
-![APT 29 Adversary Emulation](Screenshots/Screenshot-2025-09-11-102433.png)
+![MITRE ATT&CK Navigator](MITRE ATT&CK Framework Exploration/Screenshots/Screenshot 2025-09-11 102215.png)
+![APT 29 Adversary Emulation](MITRE ATT&CK Framework Exploration/Screenshots/Screenshot 2025-09-11 102433.png)
 
 ## Outcome / What I Learned  
 - Developed familiarity with the MITRE ATT&CK framework for mapping adversary TTPs.  
