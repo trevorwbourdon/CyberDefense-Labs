@@ -25,7 +25,12 @@ Analyze a phishing campaign to identify indicators, understand attacker methods,
 - Reply-To resolved to malicious IP (`192.119.71.157` → Hostwinds LLC).  
 - Attachment: `SWT_#09674321____PDF__.CAB` (actual extension = RAR).  
 - File hash (SHA256): `2e91c533615a9bb8929ac4bb76707b2444597ce063d84a4b33525e25074fff3f`.  
-- File size: `400.26 KB`.  
+- File size: `400.26 KB`.
+
+## Outcome / What I Learned  
+- Improved ability to analyze phishing attempts and extract IoCs.  
+- Learned how to verify suspicious email headers and attachments.  
+- Practiced applying threat intel tools to real phishing campaigns.
 
 ## Screenshots
 
@@ -42,9 +47,3 @@ This shows the content of the suspicious email we analyzed.
 ### Total Virus
 ![x](Screenshots/Phishing4.png)
 
-
-
-## Outcome / What I Learned  
-- Improved ability to analyze phishing attempts and extract IoCs.  
-- Learned how to verify suspicious email headers and attachments.  
-- Practiced applying threat intel tools to real phishing campaigns.  
