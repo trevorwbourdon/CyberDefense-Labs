@@ -21,15 +21,15 @@ Use Splunk to investigate suspicious events, perform searches, and handle incide
 ## Key Findings  
 - Pivoted from failed logins to root-cause investigation.  
 - Identified malicious login attempts tied to specific accounts.  
-- Built detection queries and alert rules for monitoring.  
-
-## Screenshots 
-![Splunk](Screenshots/Splunk1.png)
-![Splunk](Screenshots/Splunk2.png)
-
+- Built detection queries and alert rules for monitoring.
 
 ## Outcome / What I Learned  
 - Practiced real-world SIEM investigation workflows.  
 - Strengthened log analysis and querying skills.  
 - Learned how Splunk supports real-time monitoring and incident response.  
 layered defense.  
+
+## Screenshots 
+![Splunk](Screenshots/Splunk1.png)
+![Splunk](Screenshots/Splunk2.png)
+
