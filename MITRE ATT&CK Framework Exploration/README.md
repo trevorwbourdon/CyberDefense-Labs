@@ -24,14 +24,15 @@ Gain hands-on experience navigating the MITRE ATT&CK framework to identify adver
 - Spear-phishing (T1566) is one of the most widely used techniques, with detection relying on email logs, network monitoring, and endpoint telemetry.  
 - Groups like APT29 leverage tools such as Cobalt Strike and Meterpreter for C2 operations.  
 - Mitigation strategies emphasize security awareness training, multi-factor authentication, and monitoring suspicious email traffic.  
-- ATT&CK supports blue teams, red/purple teams, and SOC managers to align defenses with real-world adversary behaviors.  
+- ATT&CK supports blue teams, red/purple teams, and SOC managers to align defenses with real-world adversary behaviors.
+
+  ## Outcome / What I Learned  
+- Developed familiarity with the MITRE ATT&CK framework for mapping adversary TTPs.  
+- Learned how ATT&CK supports multiple roles (Blue, Red, Purple teams, and SOC leadership).  
+- Practiced extracting threat intelligence to strengthen detection and mitigation strategies.  
+- Understood how ATT&CK integrates into SOC workflows for incident detection, response, and threat hunting.
 
 ## Screenshots   
 ![MITRE ATT&CK Navigator](Screenshots/MITRE1.png)
 ![APT 29 Adversary Emulation](Screenshots/MITRE2.png)
-
-## Outcome / What I Learned  
-- Developed familiarity with the MITRE ATT&CK framework for mapping adversary TTPs.  
-- Learned how ATT&CK supports multiple roles (Blue, Red, Purple teams, and SOC leadership).  
-- Practiced extracting threat intelligence to strengthen detection and mitigation strategies.  
-- Understood how ATT&CK integrates into SOC workflows for incident detection, response, and threat hunting.  
+ 
