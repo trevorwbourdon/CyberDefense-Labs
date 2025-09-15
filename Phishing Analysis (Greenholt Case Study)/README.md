@@ -34,7 +34,7 @@ Analyze a phishing campaign to identify indicators, understand attacker methods,
 This shows the content of the suspicious email we analyzed.
 
 ### Attachment Details
-![Attachment Info](Screenshots/Screenshot 2025-09-12 135809)
+![Attachment Info](screenshots/screenshot_2025-09-12_135809.png)
 This shows the filename, size, and hash of the email attachment.
 
 
